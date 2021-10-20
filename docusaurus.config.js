@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Welcome to Introduction to Technology",
+  title: "Introduction to Technology",
   tagline:
     "A course specially desinged for beginners to start their career in technology",
   url: "https://your-docusaurus-test-site.com",
