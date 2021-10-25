@@ -96,7 +96,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Introduction To Technology. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Introduction To Technology. by Mobashir Farhan`,
       },
       prism: {
         theme: lightCodeTheme,
